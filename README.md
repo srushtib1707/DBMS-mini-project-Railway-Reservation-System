@@ -44,22 +44,6 @@ PHP - Server-side processing.
 
 MySQL - Database to store user and train information.
 
-Project Structure
-
-railway-reservation/
-│
-├── src/                      # PHP backend files
-│   ├── booking.php           # Handles booking logic
-│   ├── cancel.php            # Handles cancellations
-│   ├── check_status.php      # PNR status check
-│
-├── web/                      # Frontend files
-│   ├── index.html            # Homepage
-│   ├── booking.html          # Booking portal
-│   ├── status.html           # PNR status check
-│
-├── static/                   # Static files (CSS, JS, images)
-├── railres.sql               # Database schema
 
 Usage
 
